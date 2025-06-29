@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/home/queenle/.local/share/jupyter/kernels/nellys_env/wrapper.sh",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "jupyter_env",
+ "language": "python"
+}

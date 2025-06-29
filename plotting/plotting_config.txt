@@ -1,0 +1,10 @@
+variable,ccam_name,metric,climo_vmin,climo_vmax,cc_vmin,cc_vmax,climo_errors_vmin,climo_errors_vmax,cc_errors_vmin,cc_errors_vmax,climo_cmap,err_type,unit
+tasmax,tasmax,annual_mean,0,25,0,6,-1,1,-1,2,viridis,mae,°C
+tasmax,tasmax,DJF_mean,0,25,0,6,-1,1,-2,2,viridis,mae,°C
+tasmax,tasmax,TXx,0,35,0,6,-2,2,-2,2,viridis,mae,°C
+
+pr,pr,annual_mean,0,10,-45,45,-65,65,-30,30,BrBG,mape,mm/day
+pr,pr,DJF_mean,0,10,-45,45,-65,65,-30,30,BrBG,mape,mm/day
+pr,pr,JJA_mean,0,10,-45,45,-65,65,-30,30,BrBG,mape,mm/day
+pr,pr,rx1d,20,200,-100,100,-65,65,-65,65,BrBG,mape,mm/day
+
